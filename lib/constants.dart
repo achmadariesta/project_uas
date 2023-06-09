@@ -46,5 +46,6 @@ OutlineInputBorder outlineInputBorder() {
   return OutlineInputBorder(
     borderRadius: BorderRadius.circular(getProportionateScreenWidth(15)),
     borderSide: BorderSide(color: kTextColor),
+    
   );
 }
