@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// merupakan class produk
 class Product {
   
   final int id;
