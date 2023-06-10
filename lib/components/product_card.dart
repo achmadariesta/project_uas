@@ -5,7 +5,7 @@ import 'package:uas/screens/details/details_screen.dart';
 
 import '../constants.dart';
 import '../size_config.dart';
-
+// class produk
 class ProductCard extends StatelessWidget {
   const ProductCard({
     Key? key,
