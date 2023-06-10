@@ -17,10 +17,10 @@ class Body extends StatelessWidget {
             children: [
               SizedBox(height: SizeConfig.screenHeight * 0.05),
               Text(
-                "OTP Verification",
+                "OTP Verification",  // Memunculkan Judul OTP
                 style: headingStyle,
               ),
-              Text("We sent your code to +62 85757575757"),
+              Text("We sent your code to +62 85757575757"), // Memunculkan Sub Judul
               buildTimer(),
               OtpForm(),
               SizedBox(height: SizeConfig.screenHeight * 0.1),
