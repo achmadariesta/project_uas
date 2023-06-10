@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'profile_menu.dart';
 import 'profile_pic.dart';
-
+// merupakan isi yang terdapat pada tampilan profil
 class Body extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
