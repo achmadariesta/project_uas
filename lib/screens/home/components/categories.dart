@@ -6,7 +6,7 @@ import '../../../size_config.dart';
 class Categories extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    List<Map<String, dynamic>> categories = [
+    List<Map<String, dynamic>> categories = [ // Memunculkan Icon
       {"icon": "assets/icons/Flash Icon.svg", "text": "Flash Deal"},
       {"icon": "assets/icons/Cash.svg", "text": "COD"},
       {"icon": "assets/icons/Gift Icon.svg", "text": "Daily Gift"},
