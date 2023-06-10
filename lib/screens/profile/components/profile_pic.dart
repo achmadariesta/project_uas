@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-
+// class memasukan gambar profil
 class ProfilePic extends StatelessWidget {
   const ProfilePic({
     Key? key,
